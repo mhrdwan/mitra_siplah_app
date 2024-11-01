@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477775204019",
+    "project_id": "siplah-ridwan",
+    "storage_bucket": "siplah-ridwan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477775204019:android:25b8718f22fc4ca1d4aac6",
+        "android_client_info": {
+          "package_name": "com.ridwantech.mitra_siplah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMecad8cDAVJQMzEq-JX3ijzfrBCLPpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
